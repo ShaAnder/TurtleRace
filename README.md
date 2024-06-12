@@ -5,7 +5,7 @@
 <h1  align="center">Turtle Race</h1>
 
 <p  align="center">
-<img src="https://github.com/ShaAnder/TurtleRace/assets/129494996/095f28ff-09eb-446d-9113-3b1dfeedb5f2" alt="project image">
+<img src="https://github.com/ShaAnder/TurtleRace/assets/129494996/270e6895-e321-4cce-a5d0-8dd03119235a" alt="project image">
     
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
